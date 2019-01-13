@@ -47,11 +47,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-//        List<Integer> list = new ArrayList<>();
-//        initList(list);
-//        print(list);
-//        Collections.sort(list);
-//        print(list);
+
         HashMap<Integer, String> map = new HashMap<>();
         initMap(map);
         printMap(map);
